@@ -19,5 +19,9 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+|![github-user-contribution (6)](https://user-images.githubusercontent.com/109308073/210966148-18099034-d443-450e-b167-cc8305550591.svg)|
+ |---|
+<!-- profile view count. replace username with yours-->
+<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=abayramus&label=Profile%20views&color=0e75b6&style=flat" alt="tksema" /> 
+</p>
